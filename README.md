@@ -2,6 +2,7 @@
 </h1>
 <p align="center">
   <p align="center"><b>End-to-end open-source voice agents platform</b>: Quickly build LLM based voice driven conversational applications</p>
+![switchlabs-cover](https://github.com/bolna-ai/bolna/assets/1313096/5f2f8260-a06f-48ea-9ca0-9332cb6af1f0)
 </p>
 
 <h4 align="center">
